@@ -1,5 +1,9 @@
 # Super Frappacino
 
+# Description
+
 ## Ingredients
 
- -Ice
+- 1 cup whole milk
+- Crushed Ice
+- Whipped Cream
