@@ -1,8 +1,9 @@
 # Super Frappacino
 
-## Description: Here we are
+# Description
 
 ## Ingredients
 
- - Ice (cubed ice)
- - 1 cup almond milk
+- 1 cup whole milk
+- Crushed Ice
+- Whipped Cream
