@@ -1,8 +1,9 @@
 # Super Frappacino
 
-## Description: Here we are
+## Description: Here we are, this is the real description
 
 ## Ingredients
 
- - Ice (cubed ice)
+ - Ice (cubed ice mix)
  - 1 cup almond milk
+ - Coffee blend
